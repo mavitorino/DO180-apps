@@ -1,2 +1,4 @@
-iorljp-helloworld-iorljp-s2i.apps.na46a.prod.ole.redhat.comprint "Hello, World! php version is " . PHP_VERSION . "\n";
+<?php
+print "Hello, World! php version is " . PHP_VERSION . "\n";
+print "A change is a coming!\n";
 ?>
